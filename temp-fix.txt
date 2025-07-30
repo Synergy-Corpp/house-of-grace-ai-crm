@@ -1,0 +1,7 @@
+QUICK FIX NEEDED:
+
+The error is at line 724 in AIInsights.tsx
+
+The problem is a missing closing </div> tag before the visualizations section.
+
+Let me check the exact location and provide the fix.

@@ -721,8 +721,8 @@ const AIInsights = () => {
                     )}
                   </div>
                   
-                  {/* Visualizations */}
-                  {message.visualizations && message.visualizations.length > 0 && (
+                  /* {/* Visualizations */}
+                  /* {message.visualizations {message.visualizations &&{message.visualizations && message.visualizations.length > 0 && (
                     <div className="mt-4 w-full">
                       <AIVisualization visualizations={message.visualizations} />
                     </div>
