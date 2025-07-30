@@ -727,6 +727,7 @@ const AIInsights = () => {
                       <AIVisualization visualizations={message.visualizations} />
                     </div>
                   )}
+                </div>
                 ))}
                 
                 {isLoading && (
