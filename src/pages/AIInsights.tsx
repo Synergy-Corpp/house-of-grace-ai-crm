@@ -770,7 +770,6 @@ const AIInsights = () => {
                       </div>
                     )}
                   </div>
-                </div>
                 ))}
                 
                 {isLoading && (
